@@ -1,0 +1,2 @@
+# Inventorybarang
+Inventory Barang / Stok
